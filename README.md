@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-03&show_icons=true&locale=en&layout=compact" alt="sagar-03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-03&show_icons=true&locale=en" alt="sagar-03" /></p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sagar-03&theme=javascript)](https://git.io/streak-stats)
