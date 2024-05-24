@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-03&show_icons=true&locale=en" alt="sagar-03" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sagar-03&theme=javascript&hide_border=true&border_radius=5.2&card_width=494&background=EBEBEB09&currStreakNum=D3D3D3&ring=EBD422&fire=FFFB06&stroke=E7EB03&sideNums=EBEBEB&currStreakLabel=EBEB00&dates=FFE600&sideLabels=FFF700)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sagar-03&theme=javascript)](https://git.io/streak-stats)
