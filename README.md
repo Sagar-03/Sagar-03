@@ -60,10 +60,8 @@
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sagar-03&theme=dark)
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-03&show_icons=true&locale=en&layout=compact" alt="sagar-03" />
 </p>
 
 ---
-
-⭐ **Happy Coding!**
